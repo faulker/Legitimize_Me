@@ -1,4 +1,0 @@
-There is no install.
-
-With problem, check that you have a Net::DNS and Term::ANSIColor Perl libraries and
-path to perl executable on top of rbl.pl file...
